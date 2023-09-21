@@ -41,7 +41,7 @@ namespace LinearStructure
             {
                 Console.WriteLine("The parentheses in the expression are not balanced.");
             }
-            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
